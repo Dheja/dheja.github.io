@@ -1,0 +1,46 @@
+
+body{
+    margin: 0;
+    background-color:rgb(87, 18, 87);
+    padding: 0 5rem;
+    margin: 2rem 0rem;
+    color: white;
+}
+.profile{
+    border-radius: 50%;
+    width: 15rem;
+    display: block;
+}
+.maincontent{
+display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.innercontent{
+    background-color: white;
+    color: black;
+    padding:1rem 1rem;
+    align-items: center;
+    
+}
+.inneritems{
+  text-align: center;
+}
+.images{
+    width: 2rem;
+    height:2rem;
+}
+.line{
+    height:2px;border-width:0;color:gray;background-color:gray
+}
+.fa-brands {
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+.fa-solid{
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
